@@ -34,6 +34,12 @@ router.get('/users/profile', auth, async (req, res) => {
 
     res.send(req.user)
 })
+router.get('/users', async (req, res) => {
+
+    res.send([
+        'user'
+    ])
+})
 
 router.post('/users/logout', auth, async (req, res) => {
     try {

@@ -2,3 +2,5 @@
 /node_modules
 #misc
 .env
+../.DS_Store
+.DS_Store
