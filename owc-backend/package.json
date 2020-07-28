@@ -2,9 +2,8 @@
   "name": "OWC-BE",
   "version": "1.0.0",
   "description": "Backend project for the one week challenge.",
-  "main": "app.js",
   "repository": "git@github.com:louiCoder/ONE-WEEK-APP-CHALLENGE.git",
-  "author": "louicoder <musanje2010@gmail.com>",
+  "author": "David Wampamba <davidwampamba@gmail.com>",
   "license": "MIT",
   "main": "app.js",
   "scripts": {
