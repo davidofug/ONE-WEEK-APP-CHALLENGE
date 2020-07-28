@@ -6,6 +6,7 @@
   "repository": "git@github.com:louiCoder/ONE-WEEK-APP-CHALLENGE.git",
   "author": "louicoder <musanje2010@gmail.com>",
   "license": "MIT",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
